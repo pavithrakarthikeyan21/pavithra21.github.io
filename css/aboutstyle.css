@@ -1,0 +1,51 @@
+.*{
+	margin:0;
+	padding: 0;
+}
+body,html{
+	background-color: black;
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+	text-align:center;
+}
+.About{
+	text-decoration stroke: currentColor;
+	position:absolute;
+	right: 0;
+	top: 20px;
+	color:white;
+	font-family:cursive; ;
+	padding: 0 60px;
+	font-size: 25px;
+	display:relative;
+}
+.About h1{
+	text-decoration-color: #00cec9;
+	position:center;
+	text-decoration-style:unset;
+	font-weight: 15px;
+	font-family: lucida calligraphy;
+
+}
+.About u{
+	text-decoration-line: underline;
+}
+.About b{
+
+        
+       font-family:cursive;
+       flex-flow: column;
+       font-size: 30px;
+
+
+}
+.About p{
+	font-size:20px;
+	line-height: 22px;
+	margin-bottom: 18px;
+	text-decoration-color: white;
+	font-variant:Harlow solid italic;
+
+}

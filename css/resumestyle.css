@@ -1,0 +1,110 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #ffeaa7;
+    background-repeat:no-repeat;
+    background-position: cover;
+    width: 100vh;
+    height:100%;
+   
+}
+.h1{
+	text-align: center;
+	color:grey;
+	width: 100px;
+	height: 190px;
+}
+.h2{
+	color:white;
+	animation-duration: 3s;
+	text-align: center;
+	text-decoration-color: #636e72;
+
+}
+.p{
+	font-size: 10px;
+	color: white;
+	font-family: cursive;
+	text-align: center;
+}
+
+
+#overlay{
+	background-image: url(../images/21.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:contain;
+	margin:40px auto;
+	margin-top: 10%;
+	margin-bottom: 20%;
+	margin-left: 20%;
+	margin-right: 40%;
+    width:1000px;
+    height:750px;
+    background-color:white;
+    border-radius: 100px;
+
+}
+
+.block1{
+	width:700px;
+    height:500px;
+    float:left;
+}
+
+.block2{
+	text-decoration-color: white;
+	width: 400px;
+	float:left;
+	text-transform:cursive;
+	height: auto;
+	text-transform:capitalize;
+	font-size: 20px;
+
+}
+
+
+.button{
+	width: 200px;
+	height: 100px;
+	background-color: skyblue;
+	color:white;
+	border-radius: 2px;
+	font-size: 25px;
+	margin-top: 15px;
+	text-align: center;
+
+}
+.btn1{
+	background-color:black;
+	color:white;
+	outline-style:double;
+	position:center;
+
+}
+.btn:hover{
+        background: white;
+
+}
+.btn2{
+	background-color: green;
+	color: white;
+	outline-style: dotted;
+	text-align: center;
+	position: center;
+
+}
+.btn3{
+	background-color:purple;
+	color: white;
+	outline-style: dashed;
+	text-align: center;
+	position: center;
+}
+.btn4{
+	background-color:brown;
+	color: white;
+	outline-style: dashed;
+	text-align: center;
+	position: center;
+}
